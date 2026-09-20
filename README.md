@@ -15,13 +15,13 @@ bằng mô hình lớp học đảo ngược
 ThS. Khoa GDMN, trường Đại học Sài Gòn – Sai Gon University
 ThS. Trường Đại học Đồng Nai
 - Nam xuat ban : 2024
-- Nguon / Tap chi :Journal homepage: https://vjol.info.vn/index.php/tctbgd
+- Nguon / Tap chi :Journal homepage:https://vjol.info.vn/index.php/tctbgd
 2. Ten bai bao / Tai lieu 2: Biện pháp bồi dưỡng trí tuệ cảm xúc cho giáo viên mầm non
 trong hoạt động nghề nghiệp ở trường mầm non
 - Tac gia : Nguyễn Thị Thanh Huyền
 - Nam xuat ban : 2021
-- Nguon / Tap chi : TẠP CHÍ KHOA HỌC GIÁO DỤC VIỆT NAM
+- Nguon / Tap chi :http://vjes.vnies.edu.vn/sites/default/files/baiso6_05_2021.pdf
 3. Ten bai bao / Tai lieu 3:GIÁO DỤC KĨ NĂNG XÃ HỘI QUA TRẢI NGHIỆM CHO TRẺ MẦM NON-XU HƯỚNG THẾ GIỚI VÀ BÀI HỌC CHO VIỆT NAM
 - Tac gia : NGUYỄN THỊ THU HẠNH
 - Nam xuat ban : 2017
-- Nguon / Tap chi : GIÁO DỤC KĨ NĂNG XÃ HỘI QUA TRẢI NGHIỆM CHO TRẺ MẦM NON-XU HƯỚNG THẾ GIỚI VÀ BÀI HỌC CHO VIỆT NAM
+- Nguon / Tap chi :http://vjes.vnies.edu.vn/sites/default/files/143_2017-115-118.pdf
