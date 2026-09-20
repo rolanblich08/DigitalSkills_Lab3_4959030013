@@ -15,7 +15,7 @@ bằng mô hình lớp học đảo ngược
 ThS. Khoa GDMN, trường Đại học Sài Gòn – Sai Gon University
 ThS. Trường Đại học Đồng Nai
 - Nam xuat ban : 2024
-- Nguon / Tap chi :Journal homepage:https://vjol.info.vn/index.php/tctbgd
+- Nguon / Tap chi :https://scholar.dlu.edu.vn/thuvienso/bitstream/DLU123456789/274844/1/97275-925-205909-1-2-20240606.pdf
 2. Ten bai bao / Tai lieu 2: Biện pháp bồi dưỡng trí tuệ cảm xúc cho giáo viên mầm non
 trong hoạt động nghề nghiệp ở trường mầm non
 - Tac gia : Nguyễn Thị Thanh Huyền
