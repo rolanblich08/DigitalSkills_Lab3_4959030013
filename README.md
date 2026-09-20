@@ -19,7 +19,7 @@ ThS. Trường Đại học Đồng Nai
 2. Ten bai bao / Tai lieu 2: Biện pháp bồi dưỡng trí tuệ cảm xúc cho giáo viên mầm non
 trong hoạt động nghề nghiệp ở trường mầm non
 - Tac gia : Nguyễn Thị Thanh Huyền
-- Nam xuat ban : 
+- Nam xuat ban : 2021
 - Nguon / Tap chi : TẠP CHÍ KHOA HỌC GIÁO DỤC VIỆT NAM
 3. Ten bai bao / Tai lieu 3:GIÁO DỤC KĨ NĂNG XÃ HỘI QUA TRẢI NGHIỆM CHO TRẺ MẦM NON-XU HƯỚNG THẾ GIỚI VÀ BÀI HỌC CHO VIỆT NAM
 - Tac gia : NGUYỄN THỊ THU HẠNH
