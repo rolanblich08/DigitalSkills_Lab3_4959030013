@@ -24,5 +24,4 @@ trong hoạt động nghề nghiệp ở trường mầm non
 3. Ten bai bao / Tai lieu 3:GIÁO DỤC KĨ NĂNG XÃ HỘI QUA TRẢI NGHIỆM CHO TRẺ MẦM NON-XU HƯỚNG THẾ GIỚI VÀ BÀI HỌC CHO VIỆT NAM
 - Tac gia : NGUYỄN THỊ THU HẠNH
 - Nam xuat ban : 2017
-- Nguon / Tap chi : GIÁO DỤC KĨ NĂNG XÃ HỘI QUA TRẢI NGHIỆM CHO TRẺ MẦM NON
-- XU HƯỚNG THẾ GIỚI VÀ BÀI HỌC CHO VIỆT NAM
+- Nguon / Tap chi : GIÁO DỤC KĨ NĂNG XÃ HỘI QUA TRẢI NGHIỆM CHO TRẺ MẦM NON-XU HƯỚNG THẾ GIỚI VÀ BÀI HỌC CHO VIỆT NAM
